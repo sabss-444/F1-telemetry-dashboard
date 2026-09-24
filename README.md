@@ -1,4 +1,4 @@
-# F1-telemetry-dashboard
+# 🏎️F1-telemetry-dashboard🏎️
 A python bases Formula 1 telemetry analysis and visualisation project designed to explore and compare driver performance using real F1 session data.
 
 The project will use telemetry and timing data to investigate how drivers gain and lose time around a circuit, with a focus on speed, braking, throttle, gear changes, lap times, and other performance metrics.
@@ -9,7 +9,7 @@ The long term goal is to turn the analysis into an interactive dashboard where u
 
 # Project Goals
 
-The main goals of this project are to:
+ The main goals of this project are to:
 * Work with real-world Formula 1 telemetry data
 * Develop my python and data analysis skills
 * Learn how to process and clean motorsport data
@@ -75,7 +75,7 @@ Planned technologies include:
 
   It is also intended to demonstrate the ability to take real world data set, process it, analyse it, communicate findings visually, and develop the analysis into an interactive application.
 
-  # disclaimer
+  # ⚠️disclaimer⚠️
 
   This project is an independent educational project and is NOT affiliated with Formula 1, the FIA, or any F1 team.
 
