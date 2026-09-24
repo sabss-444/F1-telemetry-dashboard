@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🏎️F1-telemetry-dashboard🏎️
 A python bases Formula 1 telemetry analysis and visualisation project designed to explore and compare driver performance using real F1 session data.
 
@@ -80,3 +82,6 @@ Planned technologies include:
   This project is an independent educational project and is NOT affiliated with Formula 1, the FIA, or any F1 team.
 
   Data sources and their respective terms of use should be followed when redistributing data.
+
+ 
+</div>
